@@ -1,0 +1,79 @@
+[
+    {
+      "sectionTitle": "User Information",
+      "fields": [
+        {
+          "name": "fullName",
+          "label": "Full Name",
+          "type": "text",
+          "required": true,
+          "placeholder": "Enter full name"
+        },
+        {
+          "name": "email",
+          "label": "Email Address",
+          "type": "email",
+          "required": true,
+          "placeholder": "Enter email"
+        },
+        {
+          "name": "password",
+          "label": "Password",
+          "type": "password",
+          "required": true,
+          "placeholder": "Enter password"
+        },
+        {
+          "name": "birthday",
+          "label": "Date of Birth",
+          "type": "date",
+          "required": false
+        },
+        {
+            "name": "course",
+            "label": "Courses",
+            "type": "select",
+            "options": [
+              { "label": "Frontend", "value": "Frontend" },
+              { "label": "Backend", "value": "Backend" },
+              { "label": "Full Stack", "value": "Full stack" }
+            ],
+            "required": true
+          },
+          {
+            "name": "fileUpload",
+            "label": "Upload File",
+            "type": "file",
+            "required": false
+          },
+          {
+            "name": "gender",
+            "label": "Gender",
+            "type": "radio",
+            "options": [
+              { "label": "Male", "value": "Male" },
+              { "label": "Female", "value": "Female" },
+              { "label": "Other", "value": "" }
+            ],
+            "required": true
+          },
+           
+        {
+          "name": "termsAgreement",
+          "label": "Agree to Terms",
+          "type": "checkbox",
+          "required": true
+        },
+          {
+            "name": "Feedback",
+            "label": "Message",
+            "type": "textarea",
+            "required": false,
+            "placeholder": "Message"
+          }
+      ]
+    }
+    
+    
+    
+  ]

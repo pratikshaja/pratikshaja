@@ -1,0 +1,29 @@
+1. props are read only they are immutable this is react strict rule - if you need to mutate props you actually need state
+2. react uses one way data flow because application makes more predictable and easier to understand
+   and we have more control over   data
+
+
+3.context api 
+useContext based on context api
+context api contains - context , provider, consumer
+but consumer has very complex code so it is replace with useContext - context, provider, useContext
+
+***Context API and Redux***
+
+Context API and Redux are both state management tools for React applications, but they differ in their approach to state management, performance, and use cases: 
+State management
+Context API uses a decentralized approach, passing state through the component tree using the provider and consumer components. Redux uses a centralized store with actions and reducers that modify the state. 
+Performance
+Redux can be more performant, especially for large and complex applications, because it minimizes the number of state updates. 
+Use cases
+Context API is ideal for small applications where state changes are minimal. Redux is perfect for larger applications where there are high-frequency state updates. 
+Ease of use
+Context API is easy to use with a short learning curve and requires less code. Redux has a complex and extensive syntax. 
+Debugging
+Redux has powerful Dev Tools to ease debugging. Debugging can be hard in highly nested React Component Structure even with Dev Tool for Context API. 
+Data type
+Context API is designed for static data, that is not often refreshed or updated. Redux works with both static and dynamic data. 
+Extensibility
+Redux is easily extendible due to the ease of adding new data/actions after the initial setup. 
+Code organization
+Redux has better code organization with separate UI logic and State Management Logic. 

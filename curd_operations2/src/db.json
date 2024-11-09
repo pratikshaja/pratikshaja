@@ -1,0 +1,45 @@
+{
+  "userinfo": [
+    {
+      "id": "1",
+      "name": "Adamj",
+      "username": "Adamj",
+      "email": "Adam@gmail.com",
+      "phone": "98789987678"
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "username": "Johnk",
+      "email": "john@gmail.com",
+      "phone": "98789987623"
+    },
+    {
+      "id": "3",
+      "name": "Jacky",
+      "username": "Jackj",
+      "email": "Jacky@gmail.com",
+      "phone": "7756898645"
+    },
+    {
+      "id": "4",
+      "name": "Serena",
+      "username": "serenaj",
+      "email": "Serena@gmail.com",
+      "phone": "98789987678"
+    },
+    {
+      "id": "5",
+      "name": "Kyln",
+      "username": "Kylnj",
+      "email": "kyln@gmail.com",
+      "phone": "98789987678"
+    },
+    {
+      "id": "6",
+      "name": "pratiksha",
+      "email": "pratiksha@gmail.com",
+      "phone": "7898656789"
+    }
+  ]
+}

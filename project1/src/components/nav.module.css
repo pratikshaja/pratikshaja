@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: 0 auto;
+    align-items: center;
+    padding-bottom: 40px;
+    
+  }
+  .menulist{
+
+    list-style: none;
+    display: flex;
+    padding: 3px;
+    gap:24px;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;  
+  }

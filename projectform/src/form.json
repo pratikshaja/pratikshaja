@@ -1,0 +1,155 @@
+[
+    {
+        "section" : "transaction form",
+        "fields": [
+            {
+              "name": "customer",
+              "label": "Name for Customer",
+              "required":true,
+              "placeholder": "customer",
+              "type": "text"
+            },
+            {
+                "name": "company",
+                "label": "Name for Company",
+                "required":true,
+                "placeholder": "company",
+                "type": "text"  
+              },
+              {
+                "name":"task",
+                "label":"Name for task",
+                "required":true,
+                "placeholder":"task",
+                "type":"text"
+              },
+              {
+                "name":"vendor",
+                "label":"Name for vendor",
+                "required":true,
+                "placeholder":"vendor",
+                "type":"text"
+              },
+              {
+                "name":"lead",
+                "label":"Name for lead",
+                "required":true,
+                "placeholder":"lead",
+                "type":"text"
+              },
+              {
+                "name":"phone",
+                "label":"Name for phone",
+                "required":true,
+                "placeholder":"phone",
+                "type":"text"
+              },
+              {
+                "name":"subsidiary",
+                "label":"Name for subsidiary",
+                "required":true,
+                "placeholder":"subsidiary",
+                "type":"text"
+              },
+              {
+                "name":"prospect",
+                "label":"Name for prospect",
+                "required":true,
+                "placeholder":"prospect",
+                "type":"text"
+              },
+              {
+                "name":"project",
+                "label":"Name for project",
+                "required":true,
+                "placeholder":"project",
+                "type":"text"
+              },
+              {
+                "name":"department",
+                "label":"Name for department",
+                "required":true,
+                "placeholder":"department",
+                "type":"text"
+              },
+              {
+                "name":"partner",
+                "label":"Name for partner",
+                "required":true,
+                "placeholder":"partner",
+                "type":"text"
+              },
+              {
+                "name":"template",
+                "label":"Name for Template",
+                "required":true,
+                "placeholder":"Template",
+                "type":"text"
+
+              },
+              {
+                "name":"location",
+                "label":"Name for location",
+                "required":true,
+                "placeholder":"location",
+                "type":"text"
+              },
+              {
+                "name":"case",
+                "label":"Name for case",
+                "required":true,
+                "placeholder":"case",
+                "type":"text"
+              },
+              {
+                "name":"projecttask",
+                "label":"Name for Project task",
+                "required":true,
+                "placeholder":"project task",
+                "type":"text"
+              },
+              {
+                "name":"class",
+                "label":"Name for class",
+                "required":true,
+                "placeholder":"class",
+                "type":"text"
+              },
+              {
+                "name":"issue",
+                "label":"Name for issue",
+                "required":true,
+                "placeholder":"issue",
+                "type":"text"
+              },
+              {
+                "name":"resource",
+                "label":"Name for resource",
+                "required":true,
+                "placeholder":"resource",
+                "type":"text"
+              },
+              {
+                "name":"other name",
+                "label":"Name for other name",
+                "required":true,
+                "placeholder":"other name",
+                "type":"text"
+              },
+              {
+                "name":"event",
+                "label":"Name for event",
+                "required":true,
+                "placeholder":"event",
+                "type":"text"
+              },
+              {
+                "name":"generic resource",
+                "label":"Name for generic resource",
+                "required":true,
+                "placeholder":"generic resource",
+                "type":"text"
+              }           
+        ]
+    }
+]

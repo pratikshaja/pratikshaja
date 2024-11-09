@@ -1,0 +1,21 @@
+#root {
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+.errors{
+  color: red;
+}
+.form-label{
+  font-size: 14px;
+}
+.main-tab{
+  background-color:#8d949e;
+}
+.star{
+  color: red;
+}
+
+
+
+
