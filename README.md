@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my react practise folder in which react different concepts and their practises
 <!--
 **pratikshaja/pratikshaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
